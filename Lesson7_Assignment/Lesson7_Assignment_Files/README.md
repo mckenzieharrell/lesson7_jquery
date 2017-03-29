@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 29, 2017
 
 ### Student Name:  
-(First and Last Name)
+McKenzie Harrell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We created and edited  a website describing a recipe for brownies. We then added features to the website that allowed us to highlight and view the Ingredients and Instructions as the user pleases. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mckenzieharrell.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We used the .fadeIN function to allow the Instructions and Ingredients to fade in and out as the user clicks on the two headers. 
+2. We then used the .hover function to change the colors of the Ingredients and Instructions header as the mouse hovers over it. I learned how to change these colors to make it fit the website best.
+3. A final lesson we learned in this assignment was how to use the event.currentTarget function which allows the user to view the actual list of Ingredients and Instructions as they are clicked on. 
